@@ -1,7 +1,7 @@
 Hola!👋
 
  ![Sunil's github stats](https://github-readme-stats.vercel.app/api?username=sunilgknair051)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunilgknair051&layout=compact)]
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunilgknair051&layout=compact)
 
 <!--
 **sunilgknair051/sunilgknair051** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
